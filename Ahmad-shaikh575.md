@@ -155,5 +155,4 @@
 <br/>
 
 ------
-Credit: [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
-Last Edited on: 08/09/2021
+Template Credit: [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
